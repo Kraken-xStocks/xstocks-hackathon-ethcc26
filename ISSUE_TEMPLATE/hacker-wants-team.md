@@ -1,6 +1,7 @@
 ---
 name: Hacker wants team
 about: You have skills and want to find a team? Great!
+labels: ["Hacker looking for a Team"]
 
 ---
 
