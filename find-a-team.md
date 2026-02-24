@@ -1,13 +1,13 @@
 ## TL;DR
 
--   Looking for a team? Create an issue with a ![Hacker looking for a Team](assets/hacker-looking-for-team.svg) label: [find-a-team-template](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=hacker-wants-team.md)
--   Locking for hackers? Create an issue with a ![Team looking for a Hacker](assets/team-looking-for-hacker.svg) label: [find-a-hacker-template](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=team-wants-hacker.md)
--   Want to create a new team? Create an issue with a ![New Idea](assets/new-idea.svg) label: [new-idea-template](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=idea-wants-team.md)
--   Browse existing inserations: [ethberlinzwei/Find-A-Team/issues](https://github.com/ethberlinzwei/Find-A-Team/issues)
--   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
+-   Looking for a team? Create an issue with a ![Hacker looking for a Team](assets/hacker-looking-for-team.svg) label: [find-a-team-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=hacker-wants-team.md)
+-   Looking for hackers? Create an issue with a ![Team looking for a Hacker](assets/team-looking-for-hacker.svg) label: [find-a-hacker-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=team-wants-hacker.md)
+-   Want to create a new team? Create an issue with a ![New Idea](assets/new-idea.svg) label: [new-idea-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=idea-wants-team.md)
+-   Browse existing issues: [Kraken-xStocks/xstocks-hackathon-ethcc26/issues](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues)
+-   Connect with hackers on Discord: [#xstocks-hackathon-ethcc26](https://discord.gg)
 
 
-![ETHBerlin logo](https://ethberlinzwei.com/img/mainlogo.svg)
+![xStocks logo](./assets/mainlogo.png)
 
 You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place! Hacking together is much more fun, so let's find you a team.
 
@@ -40,7 +40,5 @@ Some people have great ideas, but don't have a team yet to help them bring it in
 
 Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point. 
 
-1. You could meet in the `#buidlyourberlinteam` chat on Status: <https://status.im/>
-2. Or join the hacker chat room on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
+1. You could meet in the `#xstocks-hackathon-ethcc26` chat on the xStocks Discord: 
 
-You can also just directly leave your personal Riot/Status address in your tracking issue.
