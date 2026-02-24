@@ -36,9 +36,7 @@ The EthCC conference runs concurrently in Cannes during the same period. Attende
 
 The hackathon takes place at a dedicated Hacker House in Cannes, France. Address will be shared with accepted applicants closer to the date.
 
-## The Hack?!? What is a hackathon?
-
-There are different types of hackathons, but the one at xStocks: Market Open has two purposes:
+## Hack Raison D'Être
 
 1.  Competing for prizes by building meaningful projects using the xStocks tokenized equities framework.
 2.  Contributing to the broader DeFi ecosystem by pushing the frontier of onchain structured products, lending, and automated investment strategies.
@@ -82,14 +80,6 @@ Projects are evaluated on a 0–100 scale across the following dimensions:
 | Market & Ecosystem Potential | 10% |
 | Clarity of Presentation | 5% |
 
-## Help?!? But I've never been to a Hackathon before!
-
-That's fine, you are most welcome here — everyone brings valuable skills to a hackathon. But we're sure you have some questions.
-
-## Do I have to be a developer?
-
-No! We **welcome anyone who brings different skills** to a hackathon. Whether you want to help as a designer, project manager, give UX advice, write documentation, or something else — often the projects that do well are the ones that focus on more than just code.
-
 ## Key Rules
 
 - All code and design work must **begin during the hackathon** period (March 31–April 2)
@@ -117,4 +107,4 @@ Winners and standout projects may receive:
 
 ---
 
-Last, but not least: [Read our Community Code of Conduct](./code-of-conduct.md). Enjoy Cannes! ☀️
+Last, but not least: [Please read the hackathon Terms and Conditions](https://xstocks.fi/hackathon/resources#terms-and-conditions). Enjoy Cannes! ☀️
