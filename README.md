@@ -4,7 +4,7 @@ This repository of knowledge guides you through getting started with the xStocks
 
 ## TL;DR!
 
--   Find a team: [Find-A-Team](./find-a-team.md)
+-   Find a team: [Find-A-Team](### Find a Team)
 -   **Sign up** for the hackathon **on Devpost**: <https://xstocks-market-open.devpost.com/>
 -   **Register on Luma**: <https://luma.com/xstocks-hackathon>
 -   **Resources & Docs**: <https://xstocks.fi/hackathon/resources>
@@ -53,6 +53,14 @@ Create user-friendly DeFi interfaces designed for everyday users. Think about ho
 
 ### Strategy
 Build automated investing tools using Ethereum Smart Accounts for programmable investment strategies powered by xStocks assets.
+
+### Find a Team
+-   Looking for a team? Create an issue with a ![Hacker looking for a Team](assets/hacker-looking-for-team.svg) label: [find-a-team-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=hacker-wants-team.md)
+-   Looking for hackers? Create an issue with a ![Team looking for a Hacker](assets/team-looking-for-hacker.svg) label: [find-a-hacker-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=team-wants-hacker.md)
+-   Want to create a new team? Create an issue with a ![New Idea](assets/new-idea.svg) label: [new-idea-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=idea-wants-team.md)
+-   Browse existing issues: [Kraken-xStocks/xstocks-hackathon-ethcc26/issues](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues)
+-   Connect with hackers on Discord: [#xstocks-hackathon-ethcc26](https://discord.gg)
+
 
 ## Prizes
 
