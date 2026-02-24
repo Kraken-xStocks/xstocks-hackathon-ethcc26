@@ -4,7 +4,7 @@ This repository of knowledge guides you through getting started with the xStocks
 
 ## TL;DR!
 
--   Find a team: [Find-A-Team](### Find a Team)
+-   Find a team: [Find-A-Team](#Find a Team)
 -   **Sign up** for the hackathon **on Devpost**: <https://xstocks-market-open.devpost.com/>
 -   **Register on Luma**: <https://luma.com/xstocks-hackathon>
 -   **Resources & Docs**: <https://xstocks.fi/hackathon/resources>
