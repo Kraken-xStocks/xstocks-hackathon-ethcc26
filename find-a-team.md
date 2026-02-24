@@ -7,7 +7,9 @@
 -   Connect with hackers on Discord: [#xstocks-hackathon-ethcc26](https://discord.gg)
 
 
-![xStocks logo](./assets/mainlogo.png)
+<div style="text-align: center;">
+<img src="./assets/hackathon-tile.png" height="200" alt="Description">   
+</div>
 
 You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place! Hacking together is much more fun, so let's find you a team.
 
@@ -16,7 +18,7 @@ You are looking for a hacker to help buidl your idea or you're looking for a tea
 You **have skills** and **want to find a team**? Great:
 
 1.  Open a new issue using the template `Hacker wants team`. Here you can introduce yourself and tell potential teams why you're awesome. Feel free to add or create labels that match your skills.
-2.  Browse all open issues with the label `looking-for-hackers` or `creating-new-team`.
+2.  Browse all open issues with the label `Team looking for a Hacker` or `New Idea`.
 3.  If you find a team with an idea that excites you, start engaging with the team. You can just comment in the issue. You should reference the issue from step 1 here, so that the team can learn a bit more about you.
 4.  When you found a team please close your issue so that people know you have found a team.
 
@@ -25,7 +27,7 @@ You **have skills** and **want to find a team**? Great:
 You **have a team** and **want to find more hackers**? Amazing:
 
 1.  Open a new issue using the template `Team wants hacker`. Here you can pitch what you're working on and tell everyone why they should buidl it.  Feel free to add or create labels that match your skills.
-2.  Wait for hackers to approach you or browse through the hacker profiles (all issues with the label `looking-for-team`) and engage with them.
+2.  Wait for hackers to approach you or browse through the hacker profiles (all issues with the label `Hacker looking for a Team`) and engage with them.
 3.  When you found all the hackers you dreamed of and needed close your issue so that everyone knows you're set.
 
 ## Idea looking for a team
@@ -33,7 +35,7 @@ You **have a team** and **want to find more hackers**? Amazing:
 Some people have great ideas, but don't have a team yet to help them bring it into reality. No worries!
 
 1.  Open a new issue using the template `Idea wants team`. Here you can pitch your idea and tell everyone why they should help you buidl it.  Feel free to add or create labels that match your skills.
-2.  Wait for hackers to approach you or browse through the hacker profiles (all issues with the label `looking-for-team`) and engage with them.
+2.  Wait for hackers to approach you or browse through the hacker profiles (all issues with the label `Hacker looking for a Team`) and engage with them.
 3.  When you found all the hackers you dreamed of and needed close your issue so that everyone knows you're set.
 
 ## Communication
