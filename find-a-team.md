@@ -1,7 +1,6 @@
 ## TL;DR
 
--   Looking for a team? Create an issue with <span style="background-color: #1a2332; color: #4ecdc4; padding: 8px 16px; border-radius: 20px; border: 1px solid #4ecdc4; font-weight: 500;">Hacker looking for a Team</span>
-  label: [Find-A-Team/issues/new?template=hacker-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=hacker-wants-team.md)
+-   Looking for a team? Create an issue with a ![Hacker looking for a Team](assets/hacker-looking-for-team.svg) label: [Find-A-Team/issues/new?template=hacker-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=hacker-wants-team.md)
 -   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/issues/new?template=team-wants-hacker.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=team-wants-hacker.md)
 -   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/issues/new?template=idea-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=idea-wants-team.md)
 -   Browse existing inserations: [ethberlinzwei/Find-A-Team/issues](https://github.com/ethberlinzwei/Find-A-Team/issues)
