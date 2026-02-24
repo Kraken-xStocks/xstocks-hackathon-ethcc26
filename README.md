@@ -20,21 +20,6 @@ Rough hackathon schedule:
 <img src="./assets/hackathon-tile.png" height="200" alt="Description">   
 </div>
 
-## Dive into the Knowledge Base!
-Before the hackathon:
-- [Prepare for the xStocks Hackathon](./the-event.md)
-- [Hackers and team formation](./hackers.md)
-- [Volunteering at the xStocks Hackathon](./volunteers.md)
-- [Community Members and Guest Access](./guests.md)
-
-During the hackathon:
-- **[Resources and Documentation](./resources.md)**
-- [Experiences at the xStocks Hackathon](./experiences.md)
-- [Prizes and Tracks](./prizes.md)
-- **[Mentors and Getting Help](./mentors.md)**
-- [Judges and Judging](./judges.md)
-- [Sponsors and Supporters](./sponsors.md)
-
 ## What is the xStocks Hackathon: Market Open?
 
 The xStocks Hackathon: Market Open is an invite-only, in-person Hacker House taking place from **March 31st to April 2nd, 2026** in Cannes, France — within walking distance of the EthCC conference. It is a combination of a hackathon, workshops, and mentorship sessions, with a **$75,000 USD prize pool** up for grabs.
