@@ -16,8 +16,9 @@ Rough hackathon schedule:
 - _Wednesday, April 1_: Full build day — workshops, mentorship, and collaboration
 - _Thursday, April 2_: **SUBMISSIONS 10:00** - JUDGING - LUNCH - **AWARDS CEREMONY**
 - _Thursday, April 2_: Make sure to show up for your judging slot! The judging timetable will start filling up when submissions close on Thursday morning.
-
-![xStocks Hackathon logo](./assets/mainlogo.png)
+<div style="text-align: center;">
+<img src="./assets/hackathon-tile.png" height="200" alt="Description">   
+</div>
 
 ## Dive into the Knowledge Base!
 Before the hackathon:
@@ -38,7 +39,7 @@ During the hackathon:
 
 The xStocks Hackathon: Market Open is an invite-only, in-person Hacker House taking place from **March 31st to April 2nd, 2026** in Cannes, France — within walking distance of the EthCC conference. It is a combination of a hackathon, workshops, and mentorship sessions, with a **$75,000 USD prize pool** up for grabs.
 
-Hosted by **Kraken** in partnership with **Backed**, this is an opportunity to build the next generation of onchain financial products using the xStocks tokenized equities framework.
+Hosted by **Kraken** in partnership with **xStocks**, this is an opportunity to build the next generation of onchain financial products using the xStocks tokenized equities framework.
 
 ### EthCC Conference
 
@@ -48,10 +49,7 @@ The EthCC conference runs concurrently in Cannes during the same period. Attende
 
 ### Hackathon Venue
 
-The hackathon takes place at a dedicated Hacker House in Cannes, France.
-
-- Street address: 1 Pl. Bernard Cornut Gentille, 06400 Cannes, France
-- See also: <https://xstocks.fi/hackathon>
+The hackathon takes place at a dedicated Hacker House in Cannes, France. Address will be shared with accepted applicants closer to the date.
 
 ## The Hack?!? What is a hackathon?
 
