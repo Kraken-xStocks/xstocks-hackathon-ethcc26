@@ -8,14 +8,14 @@ This repository of knowledge guides you through getting started with the xStocks
 -   **Sign up** for the hackathon **on Devpost**: <https://xstocks-market-open.devpost.com/>
 -   **Register on Luma**: <https://luma.com/xstocks-hackathon>
 -   **Resources & Docs**: <https://xstocks.fi/hackathon/resources>
--   **Get Mentor Help**: [Mentor Help Queue](./mentors.md)
--   Check for updates on: <https://xstocks.fi/>
+
 
 Rough hackathon schedule:
 - _Tuesday, March 31_: **DOORS OPEN** - Kickoff & Welcome - **HACKING BEGINS**
 - _Wednesday, April 1_: Full build day — workshops, mentorship, and collaboration
 - _Thursday, April 2_: **SUBMISSIONS 10:00** - JUDGING - LUNCH - **AWARDS CEREMONY**
 - _Thursday, April 2_: Make sure to show up for your judging slot! The judging timetable will start filling up when submissions close on Thursday morning.
+
 <div style="text-align: center;">
 <img src="./assets/hackathon-tile.png" height="200" alt="Description">   
 </div>
