@@ -60,7 +60,6 @@ Build automated investing tools using Ethereum Smart Accounts for programmable i
 -   Looking for hackers? Create an issue with a ![Team looking for a Hacker](assets/team-looking-for-hacker.svg) label: [find-a-hacker-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=team-wants-hacker.md)
 -   Want to create a new team? Create an issue with a ![New Idea](assets/new-idea.svg) label: [new-idea-template](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues/new?template=idea-wants-team.md)
 -   Browse existing issues: [xstocks-hackathon-ethcc26/issues](https://github.com/Kraken-xStocks/xstocks-hackathon-ethcc26/issues)
--   Connect with hackers on Discord: [#xstocks-hackathon-ethcc26](https://discord.gg)
 
 
 ## Prizes
